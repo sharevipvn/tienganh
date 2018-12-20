@@ -1,6 +1,6 @@
 {  
    "chrome":{  
-      "ver-2-2":{  
+      "ver_2_0":{  
          "block_urls":[  
             "https://www.nhaccuatui.com/ajax/user_jwt?type=logout",
             "https://www.tienganh123.com/ajax/id?act=logout",
